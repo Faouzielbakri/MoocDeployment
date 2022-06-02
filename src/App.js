@@ -11,7 +11,7 @@ function App() {
           // className="App-logo"
           alt="logo"
         />
-        <p>Group 2</p>
+        <p>Group 4</p>
         <p></p>
       </header>
       {/* <p>
@@ -32,7 +32,7 @@ function App() {
             <td>Faouzi ELbakri</td>
           </tr>
           <tr>
-            <td>Hassna ELghiat</td>
+            <td>Hassan EL GHIAT</td>
           </tr>
           <tr>
             <td>Laila Bara</td>
