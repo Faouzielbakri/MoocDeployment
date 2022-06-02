@@ -43,9 +43,6 @@ function App() {
           <tr>
             <td>Ghizlane Boujdid</td>
           </tr>
-          <tr>
-            <td>Meryem Baihat</td>
-          </tr>
         </tbody>
       </table>
     </div>
