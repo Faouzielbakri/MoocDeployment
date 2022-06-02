@@ -8,8 +8,8 @@ function App() {
           src={
             "http://crmefsm.ac.ma/wp-content/uploads/2016/07/logo_crmef_sm.png"
           }
-          // className="App-logo"
-          alt="logo"
+          className="App-logo"
+          alt="CRMEF LOGO"
         />
         <p>Group 4</p>
         <p></p>
